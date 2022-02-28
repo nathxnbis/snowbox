@@ -4,5 +4,13 @@ body{
 }
 p{ color: #FFFFFF}
 p{
-	padding-left: 1000px
+	padding-left: 1300px;
+	padding-top: 650px
+}
+
+img{position: absolute}
+
+.kissing{
+	left: 500px;
+	top: 125px;
 }
