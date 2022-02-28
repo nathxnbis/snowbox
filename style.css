@@ -3,4 +3,6 @@ body{
 	background-color: #000000
 }
 p{ color: #FFFFFF}
-p
+p{
+	padding-left: 1000px
+}
